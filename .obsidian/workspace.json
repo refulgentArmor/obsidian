@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a244c6700357543",
+        "id": "47e93565984a4f63",
         "type": "tabs",
         "children": [
           {
-            "id": "9f48f69cec2c3630",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b7dae3adeb85e1ed",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0fec1588e45a5321",
+            "id": "227774c7f08f519b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidianTest/Без названия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b620ab499bc3a7d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidianTest/Без названия.md",
+                "file": "Газпромбанк/Григорий Данильченко.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidianTest/Без названия.md",
+                "file": "Газпромбанк/Григорий Данильченко.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidianTest/Без названия.md",
+                "file": "Газпромбанк/Григорий Данильченко.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidianTest/Без названия.md"
+                "file": "Газпромбанк/Григорий Данильченко.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,20 +149,40 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b620ab499bc3a7d9",
+  "active": "227774c7f08f519b",
   "lastOpenFiles": [
-    "obsidianTest/Без названия.md",
-    "Деннис Гриннюк.md",
-    "obsidianTest",
-    "Бога.md",
-    "Бог.md",
-    "Совесть.md",
-    "Вадим Ваганов.md",
-    "Душевное спокойствие.md",
-    "Мива Сиссай.md",
-    "Пример.md",
-    "что угодно.md",
-    "Welcome.md",
-    "README.md"
+    "Газпромбанк/Андрей Бирюков.md",
+    "Газпромбанк/Григорий Данильченко.md",
+    "Выкатка на П2.md",
+    "Изображения/Pasted image 20240915130854.png",
+    "Личное/Многоуровневая распределённая система.md",
+    "Личное/Микросервисная распределённая система.md",
+    "Личное/Клиент-сервер распределённая система.md",
+    "Личное/Закон Конвея.md",
+    "Газпромбанк/сервис 360.md",
+    "Газпромбанк/Чорномаз Руслан.md",
+    "Газпромбанк/RND инфраструктура.md",
+    "Газпромбанк/Павел Михеев.md",
+    "Газпромбанк/Колпаков Виктор.md",
+    "Газпромбанк/Вадим Ваганов.md",
+    "Личное/Совесть.md",
+    "Личное/ESB.md",
+    "Личное/Сервис-ориентированная архитектура (SOA).md",
+    "Личное/Распределённая система.md",
+    "Изображения",
+    "Личное/Computer bus.md",
+    "Pasted image 20240915121410.png",
+    "2024-09-15.md",
+    "Без названия.canvas",
+    "Без названия 1",
+    "Личное/Одноранговая распределённая система.md",
+    "Микросервисная_архитектура.md",
+    "Микросервисная.md",
+    "Личное/Душевное спокойствие.md",
+    "Газпромбанк/Низаметдинов Вадим.md",
+    "Личное/Бог.md",
+    "Личное",
+    "Газпромбанк",
+    "obsidianTest"
   ]
 }
