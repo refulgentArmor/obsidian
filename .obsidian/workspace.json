@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c098089ba403cb4d",
+        "id": "19e32236638bc760",
         "type": "tabs",
         "children": [
           {
-            "id": "65d44c8260c0149e",
+            "id": "f90aca808aab8b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Газпромбанк/Колпаков Виктор.md",
+                "file": "Личное/Сервис-ориентированная архитектура (SOA).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Сервис-ориентированная архитектура (SOA)"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Газпромбанк/Колпаков Виктор.md",
+                "file": "TBD/Заметки к презентации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Заметки к презентации"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Газпромбанк/Колпаков Виктор.md",
+                "file": "TBD/Заметки к презентации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Заметки к презентации"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -125,12 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Газпромбанк/Колпаков Виктор.md"
-              }
+                "file": "Личное/Сервис-ориентированная архитектура (SOA).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Сервис-ориентированная архитектура (SOA)"
+            }
+          },
+          {
+            "id": "2a1702440d4367f5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,44 +178,47 @@
       "command-palette:Открыть палитру команд": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "65d44c8260c0149e",
+  "active": "f90aca808aab8b0a",
   "lastOpenFiles": [
-    "Газпромбанк/Максим Шейко.md",
-    "Газпромбанк/Колпаков Виктор.md",
-    "Газпромбанк/Катаев Сергей.md",
-    "Газпромбанк/Деннис Гриннюк.md",
-    "Газпромбанк/Григорий Данильченко.md",
-    "Газпромбанк/Андрей Бирюков.md",
-    "Выкатка на П2.md",
-    "Изображения/Pasted image 20240915130854.png",
+    "Личное/Распределённая система.md",
+    "Личное/Одноранговая распределённая система.md",
+    "Личное/Клиент-сервер распределённая система.md",
     "Личное/Многоуровневая распределённая система.md",
     "Личное/Микросервисная распределённая система.md",
-    "Личное/Клиент-сервер распределённая система.md",
     "Личное/Закон Конвея.md",
-    "Газпромбанк/сервис 360.md",
-    "Газпромбанк/Чорномаз Руслан.md",
-    "Газпромбанк/RND инфраструктура.md",
-    "Газпромбанк/Павел Михеев.md",
-    "Газпромбанк/Вадим Ваганов.md",
-    "Личное/Совесть.md",
     "Личное/ESB.md",
-    "Личное/Сервис-ориентированная архитектура (SOA).md",
-    "Личное/Распределённая система.md",
-    "Изображения",
+    "flashcards/ESB.md",
+    "flashcards",
     "Личное/Computer bus.md",
+    "Выкатка на П2.md",
+    "Личное/Совесть.md",
+    "Личное/Сервис-ориентированная архитектура (SOA).md",
+    "Личное/Душевное спокойствие.md",
+    "Личное/Бог.md",
+    "TBD/Заметки к презентации.md",
+    "Без названия.md",
+    "Изображения/Pasted image 20240915130854.png",
+    "TBD",
+    "Газпромбанк структура/Колпаков Виктор.md",
+    "Газпромбанк/Максим Шейко.md",
+    "Газпромбанк структура/Катаев Сергей.md",
+    "Газпромбанк структура/Деннис Гриннюк.md",
+    "Газпромбанк структура/Григорий Данильченко.md",
+    "Газпромбанк структура/Андрей Бирюков.md",
+    "Газпромбанк структура/сервис 360.md",
+    "Газпромбанк структура/Чорномаз Руслан.md",
+    "Газпромбанк структура/RND инфраструктура.md",
+    "Газпромбанк структура/Павел Михеев.md",
+    "Изображения",
     "Pasted image 20240915121410.png",
-    "2024-09-15.md",
     "Без названия.canvas",
     "Без названия 1",
-    "Личное/Одноранговая распределённая система.md",
-    "Микросервисная_архитектура.md",
-    "Микросервисная.md",
-    "Личное/Душевное спокойствие.md",
     "Личное",
-    "Газпромбанк",
+    "Газпромбанк структура",
     "obsidianTest"
   ]
 }
